@@ -16,6 +16,3 @@
 [![Kali Linux](https://img.shields.io/badge/Kali-Cyber%20Security-557C94?style=flat-square&logo=kalilinux&logoColor=white&colorA=000000)](https://kali.org)
 
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=00FF88&icon_color=00FF88&text_color=FFFFFF)](https://github.com/yourusername)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark&hide_border=true&bg_color=1A1A1A&title_color=00FF88&text_color=FFFFFF)](https://github.com/yourusername)
-[![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=radical&hide_border=true&background=000000&dates=00FF88&ring=00FF88&fire=00FF88)](https://git.io/streak-stats)
