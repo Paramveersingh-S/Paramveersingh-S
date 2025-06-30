@@ -1,6 +1,7 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=32&pause=1000&color=00C7B7&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi+%F0%9F%91%8B%2C+Paramveer+here!" alt="Typing SVG" />
-  <img alt="Mario Wave" src="https://emojis.slackmojis.com/emojis/images/1613942497/14160/mario_wave.gif?1613942497" width="70">
+  <br>
+  <img alt="Animated Welcome" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="120">
 </h1>
 
 <p align="center">
@@ -62,7 +63,6 @@
     <img src="https://img.shields.io/badge/Kali-Cyber%20Security-557C94?style=flat-square&logo=kalilinux&logoColor=white&colorA=000000" />
   </a>
 </p>
-
 
 <hr>
 
