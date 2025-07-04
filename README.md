@@ -17,7 +17,8 @@
 - 👋 Hi, I’m @Paramveersingh-S  
 - 👀 I’m interested in **Machine Learning, Embedded software, Cyber Security, and Kernel Programming**  
 - 🤝 Open to collaboration and **research paper analysis**  
-- 💞️ Always ready to explore new ideas and challenges in tech  
+- 💞️ Always ready to explore new ideas and challenges in tech
+- ![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)
 
 <div align="center">
 
