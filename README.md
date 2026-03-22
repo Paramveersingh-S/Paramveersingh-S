@@ -70,3 +70,4 @@
 <div align="center">
   <h3>Thanks for visiting! ⭐ Feel free to check out my repositories and collaborate! 🚀</h3>
 </div>
+![LeetCode Stats](https://leetcard.jacoblin.cool/alcatraz12?theme=dark&font=Ubuntu)
