@@ -19,6 +19,7 @@
 - 🤝 Open to collaboration and **research paper analysis**  
 - 💞️ Always ready to explore new ideas and challenges in tech
 - ![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)
+-  ![LeetCode Stats](https://leetcode-stats-card.vercel.app/api?username=alcatraz12&theme=dark&show_icons=true&hide=ranking)
 
 <div align="center">
 
@@ -68,6 +69,6 @@
 <hr>
 
 <div align="center">
+ 
   <h3>Thanks for visiting! ⭐ Feel free to check out my repositories and collaborate! 🚀</h3>
 </div>
-![LeetCode Stats](https://leetcard.jacoblin.cool/alcatraz12?theme=dark&font=Ubuntu)
