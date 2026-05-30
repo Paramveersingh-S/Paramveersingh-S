@@ -27,33 +27,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Paramveersingh-S&bg_color=0D1117&color=00C7B7&line=00C7B7&point=FFFFFF&area=true&hide_border=true" alt="Paramveer's GitHub Activity Graph" width="100%" />
   
   <br><br>
-
-  <a href="https://github.com/Paramveersingh-S">
-    <img src="https://github-readme-stats.vercel.app/api?username=Paramveersingh-S&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&v=1" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/Paramveersingh-S">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paramveersingh-S&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&v=1" alt="Top Languages" />
-  </a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-## 🎯 Coding Profile & Trophies
-
-  <a href="https://github.com/Paramveersingh-S">
-    <img src="https://github-profile-trophy.vercel.app/?username=Paramveersingh-S&theme=radical&no-frame=true&no-bg=true&margin-w=15&v=1" alt="GitHub Trophies" />
-  </a>
-  
-  <br><br>
-  
-  <a href="https://leetcode.com/u/alcatraz12/">
-    <img src="https://leetcard.jacoblin.cool/alcatraz12?theme=radical&font=syne&ext=heatmap" alt="LeetCode Stats for alcatraz12" />
-  </a>
-</div>
-
 ## 🛠️ Tech Stack & Tools
 
 </div>
