@@ -98,7 +98,10 @@
   <br>
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/NASA_logo.svg" height="85" alt="NASA Space Apps Logo" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://avatars.githubusercontent.com/u/33718042?v=4" height="85" alt="GirlScript Logo" style="border-radius: 50%; border: 3px solid #F9A826;" />
+  <img src="https://girlscript.tech/images/logo.png" 
+     height="85" 
+     alt="GirlScript Summer of Code Logo" 
+     style="border-radius: 50%; border: 3px solid #F9A826;" />
   <br><br>
   <code>NASA Space Apps Global Nominee</code> &nbsp; <b>||</b> &nbsp; <code>GSSoC AI/ML Contributor</code>
   <br><br>
