@@ -23,7 +23,7 @@
 <br><div align="center">
 <div align="center">
   <a href="https://leetcode.com/u/alcatraz12/">
-    <img src="https://leetcard.jacoblin.cool/alcatraz12?theme=solarized-light&font=Nunito&ext=heatmap" alt="Alcatraz12's LeetCode Stats" width="600" />
+    <img src="https://leetcard.jacoblin.cool/alcatraz12?theme=light,dark&font=Syne&ext=heatmap" alt="Alcatraz12's LeetCode Stats" width="600" />
   </a>
 </div>
 
