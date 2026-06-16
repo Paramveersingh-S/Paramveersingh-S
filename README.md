@@ -18,9 +18,14 @@
 - 👀 I’m interested in **Machine Learning, Embedded software, Cyber Security, and Kernel Programming**
 - 🤝 Open to collaboration and **research paper analysis** - 💞️ Always ready to explore new ideas and challenges in tech
 - 🔭 Currently building **Scalable Full-Stack Architectures & Deep Tech Solutions**
-- ![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)
+
 
 <br><div align="center">
+<div align="center">
+  <a href="https://leetcode.com/u/alcatraz12/">
+    <img src="https://leetcard.jacoblin.cool/alcatraz12?theme=solarized-light&font=Nunito&ext=heatmap" alt="Alcatraz12's LeetCode Stats" width="600" />
+  </a>
+</div>
 
 ## 📈 GitHub Analytics & Repository Mapping
 
