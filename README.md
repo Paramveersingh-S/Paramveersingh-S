@@ -32,6 +32,15 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Paramveersingh-S&bg_color=0D1117&color=00C7B7&line=00C7B7&point=FFFFFF&area=true&hide_border=true" alt="Paramveer's GitHub Activity Graph" width="100%" />
   
   <br><br>
+  ### 🤝 Organizations I've Contributed To
+
+[![CERN](https://img.shields.io/badge/CERN-0055A0?style=for-the-badge&logo=cern&logoColor=white)](https://github.com/CERN)
+[![Google DeepMind](https://img.shields.io/badge/DeepMind-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://github.com/google-deepmind)
+[![CERN HSF](https://img.shields.io/badge/CERN_HSF-2C3E50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HSF)
+[![Scikit-HEP](https://img.shields.io/badge/Scikit--HEP-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://github.com/scikit-hep)
+[![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://github.com/huggingface)
+[![HSF Training](https://img.shields.io/badge/HSF_Training-2C3E50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hsf-training)
+[![Google Gemma](https://img.shields.io/badge/Google_Gemma-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://github.com/google)
 ## 🛠️ Tech Stack & Tools
 
 </div>
