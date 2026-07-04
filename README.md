@@ -34,13 +34,56 @@
   <br><br>
   ### 🤝 Organizations I've Contributed To
 
-[![CERN](https://img.shields.io/badge/CERN-0055A0?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CERN)
-[![Google DeepMind](https://img.shields.io/badge/DeepMind-4285F4?style=for-the-badge&logo=deepmind&logoColor=white)](https://github.com/google-deepmind)
-[![CERN HSF](https://img.shields.io/badge/CERN_HSF-2C3E50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HSF)
-[![Scikit-HEP](https://img.shields.io/badge/Scikit--HEP-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://github.com/scikit-hep)
-[![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://github.com/huggingface)
-[![HSF Training](https://img.shields.io/badge/HSF_Training-2C3E50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hsf-training)
-[![Google Gemma](https://img.shields.io/badge/Google_Gemma-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://github.com/google)
+<table>
+  <tr>
+    <td align="center" width="120">
+      <a href="https://github.com/CERN">
+        <img src="https://github.com/CERN.png" width="65" height="65" alt="CERN" /><br />
+        <sub><b>CERN</b></sub>
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="https://github.com/google-deepmind">
+        <img src="https://github.com/google-deepmind.png" width="65" height="65" alt="Google DeepMind" /><br />
+        <sub><b>Google DeepMind</b></sub>
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="https://github.com/HSF">
+        <img src="https://github.com/HSF.png" width="65" height="65" alt="CERN HSF" /><br />
+        <sub><b>CERN HSF</b></sub>
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="https://github.com/scikit-hep">
+        <img src="https://github.com/scikit-hep.png" width="65" height="65" alt="Scikit-HEP" /><br />
+        <sub><b>Scikit-HEP</b></sub>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <a href="https://github.com/huggingface">
+        <img src="https://github.com/huggingface.png" width="65" height="65" alt="Hugging Face" /><br />
+        <sub><b>Hugging Face</b></sub>
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="https://github.com/hsf-training">
+        <img src="https://github.com/hsf-training.png" width="65" height="65" alt="HSF Training" /><br />
+        <sub><b>HSF Training</b></sub>
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="https://github.com/google">
+        <img src="https://github.com/google.png" width="65" height="65" alt="Google Gemma" /><br />
+        <sub><b>Google Gemma</b></sub>
+      </a>
+    </td>
+    <td width="120"></td>
+  </tr>
+</table>
+
 ## 🛠️ Tech Stack & Tools
 
 </div>
@@ -129,7 +172,14 @@
 <br>
 
 <div align="center">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paramveersingh-S&layout=compact&theme=dark&bg_color=0D1117&title_color=00C7B7&text_color=FFFFFF&hide_border=true)
+
+### 📊 Language & Repo Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=Paramveersingh-S&show_icons=true&count_private=false&hide_border=true&bg_color=0D1117&title_color=00C7B7&icon_color=00C7B7&text_color=FFFFFF" height="165" alt="Paramveer's GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paramveersingh-S&layout=compact&langs_count=8&size_weight=0.6&count_weight=0.4&hide_border=true&bg_color=0D1117&title_color=00C7B7&text_color=FFFFFF" height="165" alt="Paramveer's most used languages" />
+
+<sub>Both cards pull live from the GitHub API — stats update automatically as repos change, no manual editing needed.</sub>
+
 ## 🏆 Achievements & Publications
 
 </div>
