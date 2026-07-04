@@ -177,7 +177,7 @@
 
 ![Paramveer's GitHub stats](https://github-readme-stats-five-woad-84.vercel.app/api?username=Paramveersingh-S&show_icons=true)
 
-![Paramveer's most used languages](https://github-readme-stats-five-woad-84.vercel.app/api/top-langs/?username=Paramveersingh-S&layout=compact&langs_count=8&size_weight=0.6&count_weight=0.4&hide_border=true&bg_color=0D1117&title_color=00C7B7&text_color=FFFFFF)
+![Paramveer's most used languages](https://github-readme-stats-five-woad-84.vercel.app/api/top-langs/?username=Paramveersingh-S)
 
 
 
