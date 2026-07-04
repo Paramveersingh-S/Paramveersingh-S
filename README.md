@@ -34,8 +34,8 @@
   <br><br>
   ### 🤝 Organizations I've Contributed To
 
-[![CERN](https://img.shields.io/badge/CERN-0055A0?style=for-the-badge&logo=cern&logoColor=white)](https://github.com/CERN)
-[![Google DeepMind](https://img.shields.io/badge/DeepMind-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://github.com/google-deepmind)
+[![CERN](https://img.shields.io/badge/CERN-0055A0?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CERN)
+[![Google DeepMind](https://img.shields.io/badge/DeepMind-4285F4?style=for-the-badge&logo=deepmind&logoColor=white)](https://github.com/google-deepmind)
 [![CERN HSF](https://img.shields.io/badge/CERN_HSF-2C3E50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HSF)
 [![Scikit-HEP](https://img.shields.io/badge/Scikit--HEP-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://github.com/scikit-hep)
 [![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://github.com/huggingface)
@@ -129,7 +129,7 @@
 <br>
 
 <div align="center">
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paramveersingh-S&layout=compact&theme=dark&bg_color=0D1117&title_color=00C7B7&text_color=FFFFFF&hide_border=true)
 ## 🏆 Achievements & Publications
 
 </div>
