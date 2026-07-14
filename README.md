@@ -84,6 +84,8 @@
   </tr>
 </table>
 
+![Open source contributions](https://github-contributor-stats.vercel.app/api?username=Paramveersingh-S&limit=10&order_by=contributions&combine_all_yearly_contributions=true)
+
 ## 🛠️ Tech Stack & Tools
 
 </div>
