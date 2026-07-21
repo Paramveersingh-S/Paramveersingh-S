@@ -31,9 +31,8 @@
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Paramveersingh-S&bg_color=0D1117&color=00C7B7&line=00C7B7&point=FFFFFF&area=true&hide_border=true" alt="Paramveer's GitHub Activity Graph" width="100%" />
   
-  <br><br>
+ <br><br>
   ### 🤝 Organizations I've Contributed To
-
 <table>
   <tr>
     <td align="center" width="120">
@@ -80,6 +79,22 @@
         <sub><b>Google Gemma</b></sub>
       </a>
     </td>
+    <td align="center" width="120">
+      <a href="https://github.com/fossunited">
+        <img src="https://github.com/fossunited.png" width="65" height="65" alt="FOSS United" /><br />
+        <sub><b>FOSS United</b></sub>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <a href="https://github.com/supermemoryai">
+        <img src="https://github.com/supermemoryai.png" width="65" height="65" alt="Supermemory" /><br />
+        <sub><b>Supermemory</b></sub>
+      </a>
+    </td>
+    <td width="120"></td>
+    <td width="120"></td>
     <td width="120"></td>
   </tr>
 </table>
