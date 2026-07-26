@@ -20,13 +20,6 @@
 - 🔭 Currently building **Scalable Full-Stack Architectures & Deep Tech Solutions**
 
 
-<br><div align="center">
-<div align="center">
-  <a href="https://leetcode.com/u/alcatraz12/">
-    <img src="https://leetcard.jacoblin.cool/alcatraz12?theme=light,dark&font=Syne&ext=heatmap" alt="Alcatraz12's LeetCode Stats" width="600" />
-  </a>
-</div>
-
 ## 📈 GitHub Analytics & Repository Mapping
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Paramveersingh-S&bg_color=0D1117&color=00C7B7&line=00C7B7&point=FFFFFF&area=true&hide_border=true" alt="Paramveer's GitHub Activity Graph" width="100%" />
