@@ -20,10 +20,7 @@
 - 🔭 Currently building **Scalable Full-Stack Architectures & Deep Tech Solutions**
 
 
-## 📈 GitHub Analytics & Repository Mapping
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Paramveersingh-S&bg_color=0D1117&color=00C7B7&line=00C7B7&point=FFFFFF&area=true&hide_border=true" alt="Paramveer's GitHub Activity Graph" width="100%" />
-  
  <br><br>
   ### 🤝 Organizations I've Contributed To
 <table>
