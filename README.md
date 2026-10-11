@@ -104,6 +104,7 @@
 </table>
 
 </div>
+
 [![Merged PRs in external repos](https://img.shields.io/badge/Merged_PRs-View_all-2ea44f?logo=github)](https://github.com/search?q=is%3Apr+is%3Amerged+author%3AParamveersingh-S+-user%3AParamveersingh-S&type=pullrequests)
 
 </div>
