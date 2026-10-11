@@ -87,12 +87,23 @@
         <sub><b>Supermemory</b></sub>
       </a>
     </td>
-    <td width="120"></td>
-    <td width="120"></td>
+    <td align="center" width="120">
+      <a href="https://github.com/meshery">
+        <img src="https://github.com/meshery.png" width="65" height="65" alt="Meshery" /><br />
+        <sub><b>Meshery</b></sub>
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="https://github.com/vllm-project">
+        <img src="https://github.com/vllm-project.png" width="65" height="65" alt="vLLM" /><br />
+        <sub><b>vLLM</b></sub>
+      </a>
+    </td>
     <td width="120"></td>
   </tr>
 </table>
 
+</div>
 [![Merged PRs in external repos](https://img.shields.io/badge/Merged_PRs-View_all-2ea44f?logo=github)](https://github.com/search?q=is%3Apr+is%3Amerged+author%3AParamveersingh-S+-user%3AParamveersingh-S&type=pullrequests)
 
 </div>
