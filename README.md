@@ -66,5 +66,6 @@ Contributions to **CERN-HSF (Phoenix)**, **vLLM**, **HSF Training**, **Scikit-HE
 </p>
 
 <p align="center">
-  <img src="https://count.getloli.com/@Paramveersingh-S" width="190" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Paramveersingh-S&label=Profile+views&color=00C7B7&style=flat" alt="Profile views" />
 </p>
+
