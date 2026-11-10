@@ -15,10 +15,10 @@ from PIL import Image, ImageEnhance
 SRC = Path(sys.argv[1] if len(sys.argv) > 1 else "assets/avatar.jpg")
 OUT = Path(sys.argv[2] if len(sys.argv) > 2 else "assets/binary-portrait.svg")
 
-COLS = 132                 # characters per row
-CELL_W, CELL_H = 5.3, 8.0  # px per character cell
-FONT = 9                   # px
-PAD = 14
+COLS = 70                  # characters per row
+CELL_W, CELL_H = 3.4, 5.2  # px per character cell
+FONT = 5.6                 # px
+PAD = 8
 
 random.seed(7)  # deterministic output
 
@@ -92,9 +92,9 @@ for y in range(ROWS):
         if cls is None:
             parts.append(f"<tspan>{text}</tspan>")
         elif cls.startswith("sun"):
-            parts.append(f'<tspan class="{cls} pulse">{text}</tspan>')
+            parts.append(f'<tspan class="{cls}">{text}</tspan>')
         elif cls.startswith("w"):
-            parts.append(f'<tspan class="{cls} f{random.randint(0, 3)}">{text}</tspan>')
+            parts.append(f'<tspan class="{cls}">{text}</tspan>')
         else:
             parts.append(f'<tspan class="{cls}">{text}</tspan>')
     rows_svg.append(
@@ -108,31 +108,21 @@ styles = "".join(f".{k}{{fill:{v}}}" for k, v in PALETTE.items())
 svg = f"""<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}" role="img" aria-label="Paramveer Singh - profile picture rendered as binary code">
 <defs>
 <radialGradient id="bg" cx="50%" cy="42%" r="75%"><stop offset="0%" stop-color="#1a0b0f"/><stop offset="100%" stop-color="#05060a"/></radialGradient>
-<linearGradient id="scan" x1="0" x2="0" y1="0" y2="1"><stop offset="0" stop-color="#00ffd5" stop-opacity="0"/><stop offset="0.5" stop-color="#00ffd5" stop-opacity="0.22"/><stop offset="1" stop-color="#00ffd5" stop-opacity="0"/></linearGradient>
-<clipPath id="frame"><rect width="{W}" height="{H}" rx="18"/></clipPath>
+<clipPath id="frame"><rect width="{W}" height="{H}" rx="12"/></clipPath>
 </defs>
 <style>
 text{{font-family:'SFMono-Regular',Consolas,'Courier New',monospace;font-size:{FONT}px;font-weight:700;white-space:pre}}
 {styles}
-.pulse{{animation:pulse 2.8s ease-in-out infinite}}
-.f0{{animation:fl 3.1s ease-in-out infinite}}
-.f1{{animation:fl 4.3s ease-in-out .7s infinite}}
-.f2{{animation:fl 2.6s ease-in-out 1.4s infinite}}
-.f3{{animation:fl 5.2s ease-in-out .2s infinite}}
-.scan{{animation:scan 5s linear infinite}}
-@keyframes pulse{{0%,100%{{opacity:1}}50%{{opacity:.55}}}}
-@keyframes fl{{0%,100%{{opacity:1}}50%{{opacity:.45}}}}
-@keyframes scan{{from{{transform:translateY(-70px)}}to{{transform:translateY({H}px)}}}}
 </style>
 <g clip-path="url(#frame)">
 <rect width="{W}" height="{H}" fill="url(#bg)"/>
 {chr(10).join(rows_svg)}
-<rect class="scan" x="0" y="0" width="{W}" height="70" fill="url(#scan)"/>
 </g>
-<rect x="1" y="1" width="{W - 2}" height="{H - 2}" rx="18" fill="none" stroke="#ff3b3b" stroke-opacity=".45" stroke-width="2"/>
+<rect x="1" y="1" width="{W - 2}" height="{H - 2}" rx="12" fill="none" stroke="#ff3b3b" stroke-opacity=".45" stroke-width="2"/>
 </svg>
 """
 OUT.parent.mkdir(parents=True, exist_ok=True)
 OUT.write_text(svg, encoding="utf-8")
 print(f"wrote {OUT} ({OUT.stat().st_size/1024:.0f} KB), {COLS}x{ROWS} chars, {W}x{H}px")
+
 

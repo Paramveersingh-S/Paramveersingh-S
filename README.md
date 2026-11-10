@@ -1,8 +1,8 @@
-<div align="center">
+﻿<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:05060a,50:b3121b,100:ff3b3b&section=header&text=&fontSize=0" width="100%" alt="" />
 
-<img src="./assets/binary-portrait.svg" width="640" alt="Paramveer Singh - portrait rendered as animated binary code" />
+<img src="./assets/binary-portrait.svg" width="230" alt="Paramveer Singh - portrait rendered as animated binary code" />
 
 <br/>
 
@@ -208,3 +208,4 @@ Working on **LLM serving, GPU kernels, voice AI or open-source infra**? Want a s
 <sub><code>while (alive) { learn(); build(); ship(); }</code> &nbsp;·&nbsp; 不断の努力 <i>(continuous effort)</i></sub>
 
 </div>
+
