@@ -14,7 +14,7 @@
 
 <br/><br/>
 
-<img src="https://count.getloli.com/@Paramveersingh-S?name=Paramveersingh-S&theme=gelbooru&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto" alt="Profile views" />
+<img src="https://count.getloli.com/@Paramveersingh-S" width="190" alt="Profile views" />
 
 <br/>
 
@@ -208,4 +208,5 @@ Working on **LLM serving, GPU kernels, voice AI or open-source infra**? Want a s
 <sub><code>while (alive) { learn(); build(); ship(); }</code> &nbsp;·&nbsp; 不断の努力 <i>(continuous effort)</i></sub>
 
 </div>
+
 
